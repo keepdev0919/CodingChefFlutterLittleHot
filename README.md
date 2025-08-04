@@ -1,16 +1,9 @@
-# codingchefflutterlittlehot
+코딩셰프 Flutter 조금매운맛 강의 실습 레포지토리
+이 저장소는 [코딩셰프] 유튜브 채널의 Flutter 조금매운맛 강의를 따라가며 실습한 내용을 정리한 공간입니다.
+기초를 벗어나 다양한 위젯과 기능들을 직접 구현하며 Flutter 실전 감각을 키우는 데 집중합니다.
 
-A new Flutter project.
+📌 강의 링크
+👉 코딩셰프 Flutter 조금매운맛 강의 바로가기
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📂 폴더 구조
+예제별로 폴더를 나누어 관리합니다. 각 폴더에는 해당 강의에서 다룬 주요 코드와 실습 내용이 포함되어 있습니다.
